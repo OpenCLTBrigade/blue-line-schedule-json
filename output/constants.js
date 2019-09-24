@@ -1,0 +1,33 @@
+export const STATION_LYNX_I485_STATION = "LYNX I-485 Station";
+export const STATION_LYNX_SHARON_RD_WEST_STATION = "LYNX Sharon Rd West Station";
+export const STATION_LYNX_ARROWOOD_STATION = "LYNX Arrowood Station";
+export const STATION_LYNX_ARCHDALE_STATION = "LYNX Archdale Station";
+export const STATION_LYNX_TYVOLA_STATION = "LYNX Tyvola Station";
+export const STATION_LYNX_WOODLAWN_STATION = "LYNX Woodlawn Station";
+export const STATION_LYNX_SCALEYBARK_STATION = "LYNX Scaleybark Station";
+export const STATION_NEW_BERN_STATION = "New Bern Station";
+export const STATION_LYNX_EAST_WEST_BLVD_STATION = "LYNX East/West Blvd Station";
+export const STATION_BLAND_STREET_STATION = "Bland Street Station";
+export const STATION_LYNX_CARSON_STATION = "LYNX Carson Station";
+export const STATION_STONEWALL_STATION = "Stonewall Station";
+export const STATION_3RD_STREET_STATION = "3rd Street Station";
+export const STATION_CTC_STATION_ARENA = "CTC Station/Arena";
+export const STATION_7TH_STREET_STATION = "7th Street Station";
+export const STATION_9TH_STREET_STATION = "9th Street Station";
+export const STATION_PARKWOOD_STATION = "Parkwood Station";
+export const STATION_25TH_ST_STATION = "25th St Station";
+export const STATION_36TH_ST_STATION = "36th St Station";
+export const STATION_SUGAR_CREEK_STATION = "Sugar Creek Station";
+export const STATION_OLD_CONCORD_ROAD_STATION = "Old Concord Road Station";
+export const STATION_TOM_HUNTER_STATION = "Tom Hunter Station";
+export const STATION_UNIVERSITY_CITY_BLVD_STATION = "University City Blvd Station";
+export const STATION_MCCULLOUGH_STATION = "McCullough Station";
+export const STATION_JW_CLAY_BLVD_STATION = "JW Clay Blvd Station";
+export const STATION_UNC_CHARLOTTE_STATION = "UNC Charlotte Station";
+
+export const TIME_KEY_WEEKDAY = "weekday";
+export const TIME_KEY_SATURDAY = "saturday";
+export const TIME_KEY_SUNDAY = "sunday";
+
+export const DIRECTION_KEY_INBOUND = "inbound";
+export const DIRECTION_KEY_OUTBOUND = "outbound";
