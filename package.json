@@ -1,0 +1,24 @@
+{
+  "name": "lynx-schedule-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc -w",
+    "run": "node ./build/index.js",
+    "build:run": "yarn run build && yarn run run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/ramda": "^0.26.22",
+    "node-fetch": "^2.6.0",
+    "ramda": "^0.26.1",
+    "typescript": "^3.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.5"
+  }
+}
