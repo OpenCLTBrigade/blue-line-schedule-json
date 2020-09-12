@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/ramda": "^0.26.22",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "ramda": "^0.26.1",
     "typescript": "^3.6.3"
   },
